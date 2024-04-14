@@ -2,19 +2,17 @@
 [PSeInt 2024-04-13 20-36-53.zip](https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/files/14969421/PSeInt.2024-04-13.20-36-53.zip)
 
 Algoritmos:
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/a4114f17-ac3b-4c53-8a84-5649d8c15c01
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/194db9af-4955-4626-9625-1df7544c72f9
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/61c5cbcb-8001-4ba3-8609-40f66d1db309
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/d4bc42a0-d13f-437f-bba0-31744a9dc828
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/a801cd5a-2bb6-438e-b006-cdc6ade94a7d
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/f340a12d-a43f-4249-957c-9aa5b87bf310
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/ae715227-a9cc-427b-b320-e812b3dd2335
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/abbe999f-73da-45e1-bd9e-d41ce0f78282
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/04de244a-d4aa-48cc-a98d-5ec9a64ed76a
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/6531ddd3-2538-4f16-9c22-e3e451361eb9
 
 Ejecuciones:
-
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/68a446c6-68c5-48a7-823b-7673f86d1f1d
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/f416dc67-e399-49b0-8d17-5ff012ba1daf
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/94344234-d010-4c
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/4b25317c-42a7-4104-bce0-b57fca0a9e2e
-f8-a996-38d5e472cbe9
-https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/018f1915-2f58-4031-8c6b-13fefda8f889
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/325043bc-92ed-448d-b074-4169a0dbe8e2
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/5cd91727-b6d9-48bb-be78-7035f3a2252a
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/b40a0d15-7920-409b-89e8-9c8598e324d8
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/7355efb2-0191-4db8-a8a8-ee9d3be87c3f
+https://github.com/Dan0622/Algoritmos-William-fuentes-PSeint/assets/163200073/e30b7d9d-b15c-490c-9a28-a9a942585561
 
 
